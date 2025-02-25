@@ -1,0 +1,13 @@
+.font-adjustment{
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+
+.yellow-br{
+    background-color: yellow;
+}
+
+.black-br{
+    color: white;
+    background-color: black;
+}
